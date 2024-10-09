@@ -94,4 +94,3 @@ print(f"Número de elementos: {count}")
 ---
 
 En este módulo, has aprendido sobre RDDs, su creación y las operaciones básicas que se pueden realizar. En el siguiente módulo, exploraremos las operaciones específicas que se pueden llevar a cabo en RDDs, lo que te permitirá manipular datos de manera más efectiva en Spark.
-```
